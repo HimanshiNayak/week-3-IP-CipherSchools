@@ -32,4 +32,4 @@ console.log("Object:",object);
 
 // array
 const array = ["Python","HTML","CSS","JS"]
-console.log("array:",array);
+console.log("array: ",array);
