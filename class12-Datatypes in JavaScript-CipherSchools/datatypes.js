@@ -1,6 +1,6 @@
 // String
 let string = "Text";
-console.log(" string:",string);
+console.log(" string: ",string);
 // console.log("string:", typeof string); typeof is used to find the type of variable
 
 // integer
